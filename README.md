@@ -24,7 +24,7 @@ Dans le but d'améliorer son UI/UX et d'ajouter d'autres pages à son site ,une 
 ## les resultats final :
 **lien adobe xd** : https://xd.adobe.com/view/1629bca7-498d-4c80-9218-1ad9f09af0ca-437a/screen/088b9618-2ce2-4384-828d-473475ac58ce?fullscreen
 
-**line figma (zoning et WIREFRAME) : ** https://www.figma.com/file/DoY7A6VpQRje80HPe8pNRs/Untitled?node-id=102%3A18
+**line figma (zoning et WIREFRAME) :** https://www.figma.com/file/DoY7A6VpQRje80HPe8pNRs/Untitled?node-id=102%3A18
 **charte gtraphique :**
 <br>
 <img src="charte graphique.png" alt="charte graphique"/>
