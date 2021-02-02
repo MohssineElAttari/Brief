@@ -17,9 +17,13 @@ Dans le but d'améliorer son UI/UX et d'ajouter d'autres pages à son site ,une 
 
 `7 jours`
 
-###Modalité de travail :
+### Modalité de travail :
 
 `Travail par groupe de 3 personnes`
 
 ## les resultats final :
-lien adobe xd :https://xd.adobe.com/view/1629bca7-498d-4c80-9218-1ad9f09af0ca-437a/screen/088b9618-2ce2-4384-828d-473475ac58ce?fullscreen
+**lien adobe xd :** https://xd.adobe.com/view/1629bca7-498d-4c80-9218-1ad9f09af0ca-437a/screen/088b9618-2ce2-4384-828d-473475ac58ce?fullscreen
+<br>
+**charte gtraphique :**
+<br>
+<img src="charte graphique.png" alt="charte graphique"/>
